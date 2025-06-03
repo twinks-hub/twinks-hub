@@ -1,0 +1,2 @@
+postgresql://ausbiz_data_students:npg_2GdD6EnbxMiX@ep-shrill-band-a76vke89-pooler.ap-southeast-2.aws.neon.tech/neondb?sslmode=require
+ 
